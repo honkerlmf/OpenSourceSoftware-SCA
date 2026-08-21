@@ -40,6 +40,7 @@
 | 依赖组件清单 | 组件名称(packageId)、版本、语言、引入方式、是否存在漏洞、漏洞数量、最高严重等级、CVE 编号列表、许可协议、AI 修复建议、官方 API 修复建议、修复建议获取日期、查询方式、状态（行按严重等级红/绿着色） |
 | CVE漏洞明细 | 每个漏洞的 CVE 编号、标题、描述、CVSS 评分、严重等级、受影响的版本范围、参考链接 |
 | AI项目分析报告 | AI 对项目的整体分析结论与修复建议 |
+![alt text](ScreenShot_excel2.png) ![alt text](ScreenShot_cn_main.png) ![alt text](ScreenShot_cn_three.png) ![alt text](ScreenShot_cn_two.png) ![alt text](ScreenShot_cn_two2.png) ![alt text](ScreenShot_cn_two3.png) ![alt text](ScreenShot_excel1.png)
 
 ## 环境要求
 
