@@ -1,0 +1,27 @@
+{
+  "externalAi": {
+    "baseUrl": "https://api.deepseek.com/v1",
+    "apiKey": "",
+    "model": "deepseek-v4-flash",
+    "timeoutSec": 60
+  },
+  "internalAi": {
+    "baseUrl": "http://127.0.0.1:11434/v1",
+    "apiKey": "",
+    "model": "qwen2.5:14b",
+    "timeoutSec": 120
+  },
+  "useExternalAi": true,
+  "queryMethod": "OSS_INDEX",
+  "iqServerUrl": "",
+  "iqToken": "sonatype_pat_IPDvdecBRa_MGuqm0MKMoGwM_UomSOp5UAMaYeL3l4qrGyU2",
+  "fallbackEnabled": true,
+  "licenseEnabled": true,
+  "aiAnalyze": true,
+  "aiFix": true,
+  "scanMode": "PROJECT",
+  "language": "en",
+  "lastFolder": "D:\\code\\AIassessment\\zhxz\\zhxz\\smart-building-system-main\\target\\lib",
+  "lastOutput": "D:\\code\\AIassessment\\zhxz\\zhxz\\依赖组件漏洞分析结果3.xlsx",
+  "excelListFile": "D:\\code\\AIassessment\\zhxz\\zhxz\\依赖组件漏洞分析结果war包内读取demo.xlsx"
+}
