@@ -42,7 +42,7 @@
 | AI项目分析报告 | AI 对项目的整体分析结论与修复建议 |
 
 ![alt text](ScreenShot_excel2.png) ![alt text](ScreenShot_cn_main.png) ![alt text](ScreenShot_cn_three.png) ![alt text](ScreenShot_cn_two.png) ![alt text](ScreenShot_cn_two2.png) ![alt text](ScreenShot_cn_two3.png) ![alt text](ScreenShot_excel1.png)
-
+![alt text](ScreenShot_set_two31.png)
 
 ## 环境要求
 

@@ -43,7 +43,7 @@ The generated Excel file (`.xlsx`) contains 3 worksheets:
 
 
 
-![alt text](ScreenShot_set_two31.png) ![alt text](ScreenShot_main_UI.png) ![alt text](<ScreenShot_set _language.png>) ![alt text](ScreenShot_set_three.png) ![alt text](ScreenShot_set_two.png)
+ ![alt text](ScreenShot_main_UI.png) ![alt text](<ScreenShot_set _language.png>) ![alt text](ScreenShot_set_three.png) ![alt text](ScreenShot_set_two.png)
 
 
 ## Requirements
