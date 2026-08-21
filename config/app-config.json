@@ -20,7 +20,7 @@
   "aiAnalyze": true,
   "aiFix": true,
   "scanMode": "PROJECT",
-  "language": "en",
+  "language": "zh",
   "lastFolder": "D:\\code\\AIassessment\\zhxz\\zhxz\\smart-building-system-main\\target\\lib",
   "lastOutput": "D:\\code\\AIassessment\\zhxz\\zhxz\\依赖组件漏洞分析结果3.xlsx",
   "excelListFile": "D:\\code\\AIassessment\\zhxz\\zhxz\\依赖组件漏洞分析结果war包内读取demo.xlsx"
